@@ -41,3 +41,16 @@ function evenOrOdd(number) {
 ```
 
 *****
+
+## Courses:
+
+* [synergy](https://synergy.ru/professions/web_development/frontend_razrabotchik) 
+* [top-academy](https://saratov.top-academy.ru/course-front-end-development) 
+
+*****
+
+## Languages:
+
+[EFSET](https://www.efset.org/) - *Your score explained
+Your score indicates that your level of English is in the range of A1 BEGINNER to A2 ELEMENTARY, according to the guidelines set by the Common European Framework of Reference (CEFR).
+You are on your way to comprehending written and spoken vocabulary and sentences in English on topics from your daily life* 
